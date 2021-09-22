@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ibnerasheed
 - 👀 I’m interested in machine learning,AI and deep learning
 - 🌱 I’m currently doing masters in ML and AI 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
