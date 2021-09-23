@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibnerasheed
+- 👋 Hi, I’m Adil Rasheed
 - 👀 I’m interested in machine learning,AI and deep learning
 - 🌱 I’m currently doing masters in ML and AI 
 - 📫 How to reach me ...
