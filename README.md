@@ -1,6 +1,6 @@
 -  Hi, I’m Adil Rasheed
 -  I’m interested in machine learning,AI and deep learning
--  I’m currently doing masters in ML and AI 
+-  Currently working as Data Scientist(Large scale industries. industry 4.0) 
 
 
 <!---
